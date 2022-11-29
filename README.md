@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @modijiyash
+- 👀 I’m interested in passing my high school and some chicks 
+- 🌱 I’m currently learning adobe photoshop,illustrator
+- 📫 How to reach . you can hit mr up on my discord Yash!#8318
