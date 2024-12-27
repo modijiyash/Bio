@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @modijiyash
+- 👋 Hi, I’m yash pandey
 - 👀 I’m interested in passing my high school and some chicks 
 - 🌱 I’m currently learning adobe photoshop,illustrator
-- 📫 How to reach . you can hit mr up on my discord Yash!#8318
+- 📫 How to reach . you can hit mr up on my discord __yapper
