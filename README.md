@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate WEB DEVELOPER.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python,C,C++,HTML,CSS,JavaScript
-- **Frameworks & Libraries:** Django,bootstrap
+- **Programming Languages:** Python,C,C++,HTML,CSS,JavaScript.
+- **Frameworks & Libraries:** Django,bootstrap.
 
 ---
 
