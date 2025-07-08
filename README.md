@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate WEB DEVELOPER.
 - 🔭 I’m currently working on making a movie database website. 
 - 🌱 I’m learning React and Django
 - 💬 Ask me about web styling, web development. 
-- 📫 How to reach me📧yashpandeyboy@gmail.com    
+- 📫 How to reach me📧yashpandey@duck.com 
 
 ---
 
